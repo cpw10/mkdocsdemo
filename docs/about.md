@@ -20,7 +20,7 @@ Lorem markdownum, nexu videndi, canities et insania Aesone ait exilio solet vidi
 * Nec equi
 * Suasit duarum primum sensit stramine
 * Ista ligati tempus pars lunae flamma novi
-* Increpuit mentem vimque Lucifero parum cereris tamen
+* I**ncrepuit mentem vimque Lucifero parum cereris tamen**
 
 > Essem est causa adfusaque quaeque. Et filia secreta.
 >
