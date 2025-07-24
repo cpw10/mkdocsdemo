@@ -13,7 +13,7 @@ some_url: https://example.com
 
 Lorem markdownum, nexu videndi, canities et insania Aesone ait exilio solet vidi monstro. Impetus quid illa quae, lintea timide: erat *cum*. Noctem sinistrae vasti me irascentemque toto hostilia di**xit, erat, restant ne picae bella docti amentis ubi. Ad rumpere, ait hoc commentaque pars hanc vipere**os Assyrii falcato arcuerat viderat consumpserat **Arctos, ne nodosaque amplexu.**
 
-<table><thead><tr><th><p>New table</p></th><th><p>Hey</p></th><th><p></p></th><th><p></p></th></tr></thead><tbody><tr><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr></tbody></table>
+<table><thead><tr><th><p>New table</p></th><th><p>Hey</p></th><th><p>Table</p></th><th><p></p></th></tr></thead><tbody><tr><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr></tbody></table>
 
 * Ramos tot quoniam puppis populisque arcebat procul
 * **Nec nox ponto**
